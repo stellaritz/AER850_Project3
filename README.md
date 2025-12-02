@@ -2,6 +2,8 @@
 **Course:** AER850 – Intro to Machine Learning
 **2025/11/01** Fall 2025  
 
+
+Note: eval.py is step 3 
 ## Project Overview
 This project focuses on automating and streamlining the process of conducting manual checks in circuit manufacturing to ensure accurate component placement. This is to be done with computer vision systems by taking high resolution images of the printed circuit boards and using a machine learning model that will automatically locate, identify and verify the component placement. 
 
